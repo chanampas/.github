@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# .OIRES NE ,IS .AICNECIL AL ED SOICAPSE SOL EEL
